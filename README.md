@@ -1,9 +1,9 @@
 # Docker-Portainer
 ##### Trabajo realizado por Alejandro López
 ## Descripción
-En este proyecto trataremos la herramiente portainer, empezaremos con la instalación,veremos varios apartados y finalmente desplegaremos un contenedor httpd.
+En este proyecto trataremos la herramienta portainer, empezaremos con la instalación,veremos varios apartados y finalmente desplegaremos un contenedor httpd.
 ## Indice
-1. Instroducción
+1. Introducción
 2. Instalación
 3. Acceso
 4. Descripción del panel de control
