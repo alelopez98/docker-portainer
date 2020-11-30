@@ -13,3 +13,7 @@ Aqui veremos el proceso de instalacion de Portainer
 - Paso 2:
 
 ![Contenedor con la imagen Portainer](imagenes/2.jpg)  
+Vamos a nuestro navegador y accedemos a la siguiente dirección: http://IPDETUSERVIDOR:9000/  
+Una vez accedamos introduccimos el usuario y contraseña que queramos para el portainer.  
+
+- Paso 3:
