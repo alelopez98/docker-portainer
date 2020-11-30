@@ -11,3 +11,5 @@ Aqui veremos el proceso de instalacion de Portainer
     - -v /var/run/docker.sock:/var/run/docker.sock: Vincula una carpeta del servidor (izquierda), con una carpeta del contenedor (derecha). En este caso como Portainer tendrá acceso a los contenedores del servidor  
     - portainer/portainer: Indica la imagen usada para montar el contenedor.
 - Paso 2:
+
+![Imagen2].(imagenes/2.jpg)
