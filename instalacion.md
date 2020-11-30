@@ -12,4 +12,4 @@ Aqui veremos el proceso de instalacion de Portainer
     - portainer/portainer: Indica la imagen usada para montar el contenedor.
 - Paso 2:
 
-![Imagen2].(imagenes/2.jpg)
+![Contenedor con la imagen Portainer](imagenes/2.jpg)  
