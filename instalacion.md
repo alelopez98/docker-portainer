@@ -18,12 +18,12 @@ Una vez accedamos introduccimos el usuario y contraseña que queramos para el po
 
 - Paso 3:
 
-![Contenedor con la imagen Portainer](imagenes/3.jpg)
+![Contenedor con la imagen Portainer](imagenes/3.jpg)  
 A continuación elegiremos el tipo de instalación, en nuestro caso será local.
 
 - Paso 4:
 
-![Contenedor con la imagen Portainer](imagenes/4.jpg)
+![Contenedor con la imagen Portainer](imagenes/4.jpg)  
 
 
  
