@@ -23,3 +23,12 @@ Contiene una lista con todas nuestras imagenes
 
 ![Contenedor con la imagen Portainer](imagenes/images.jpg)  
 
+**5.- Networks**  
+Contiene una lista con todas las redes
+
+![Contenedor con la imagen Portainer](imagenes/networks.jpg)  
+
+**6.- Volumenes**
+Contiene una lista con todas nuestros volumenes
+
+[Contenedor con la imagen Portainer](imagenes/volumes.jpg)  
