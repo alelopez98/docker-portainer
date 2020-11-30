@@ -2,7 +2,7 @@
 
 En este apartado explicaremos los elementos que tiene Docker-Portainer  
 
-**1.- Dashboard** 
+**1.- Dashboard**  
 En el dashboard tenemos un resumen de los objetos de Docker.Podemos ver cuantos stacks,volumenes e imagenes tenemos.
   
 ![Contenedor con la imagen Portainer](imagenes/dashboard.jpg)  
@@ -16,4 +16,10 @@ En App Templates podemos implementar rápidamente contenedores usando imágenes 
 **3.- Containers**     
 Contiene una lista con todos nuestros contenedores, podemos ver su estado, algunas acciones rápidas que podemos realizar (ver sus registros o leer más sobre ellos)
 
-![Contenedor con la imagen Portainer](imagenes/containers.jpg)
+![Contenedor con la imagen Portainer](imagenes/containers.jpg)  
+
+**4.- Images**  
+Contiene una lista con todas nuestras imagenes
+
+![Contenedor con la imagen Portainer](imagenes/images.jpg)  
+
