@@ -31,4 +31,4 @@ Contiene una lista con todas las redes
 **6.- Volumenes**
 Contiene una lista con todas nuestros volumenes
 
-[Contenedor con la imagen Portainer](imagenes/volumes.jpg)  
+![Contenedor con la imagen Portainer](imagenes/volumes.jpg)  
