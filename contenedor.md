@@ -12,7 +12,7 @@ Comprobamos que se ha lanzado correctamente
 A continuación vamos a la pestaña consola y nos conectamos  
 ![Contenedor con la imagen Portainer](imagenes/consola.jpg)  
   
-Luego añadimos una frase al index.html
+Luego añadimos una frase al index.html  
 ![Contenedor con la imagen Portainer](imagenes/consola2.jpg)
 
 -Paso 4  
